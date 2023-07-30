@@ -1,0 +1,10 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Para distribuir los productos equitativamente en las columnas */
+  }
+  
+  .card {
+    /* Estilos de cada tarjeta (producto) */
+    margin-bottom: 1rem;
+  }
